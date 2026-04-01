@@ -4,8 +4,7 @@ A modern, responsive portfolio website built with **React + TypeScript + Tailwin
 
 ## 🚀 Live Demo
 
-👉 https://your-portfolio-link.com  
-_(replace with your deployed link)_
+👉 https://basic-portfolio-gamma-seven.vercel.app/
 
 ---
 
